@@ -1,0 +1,12 @@
+FeMaSR_work/
+data/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+__pycache__/
+*.pyc
+.venv/
+
